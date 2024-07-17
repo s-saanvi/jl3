@@ -1,0 +1,3 @@
+number(s) supplied is 4
+Sum is 243
+Average is 60.8
